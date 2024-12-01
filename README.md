@@ -1,4 +1,4 @@
-# Data-Science-and-ML-Portfolio
+# Data Science/Analysis and ML Portfolio
 Where you can find links to my Data Science and Machine Learning projects.
 
 
@@ -7,3 +7,4 @@ Where you can find links to my Data Science and Machine Learning projects.
 
 ## Machine Learning
 - Nigeria House Price Predictive Model 🔗🔗🔗 https://github.com/abdulmumeen-abdullahi/Nigeria-House-Price-Predictive-Model
+- Predictive Model for Air Quality in Oshodi, Lagos State 🔗🔗🔗 https://github.com/abdulmumeen-abdullahi/Predictive-Model-for-Air-Quality-in-Oshodi-Lagos-State
