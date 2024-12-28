@@ -5,6 +5,7 @@ Where you can find links to my Data Science and Machine Learning projects.
 ## Data Analysis and Visualization
 - Nigeria Housing Market Analysis 🔗🔗🔗 https://github.com/abdulmumeen-abdullahi/Nigeria-Housing-Market-Analysis
 - Mall Customer Segmentation and Behavioral Analysis 🔗🔗🔗 https://github.com/abdulmumeen-abdullahi/Mall-Customer-Segmentation-and-Behavioral-Analysis
+- Retail Sales Performance and Profitability Analysis 🔗🔗🔗 https://github.com/abdulmumeen-abdullahi/Retail-Sales-Performance-and-Profitability-Analysis
 
 ## Data Science and Machine Learning
 - Nigeria House Price Predictive Model 🔗🔗🔗 https://github.com/abdulmumeen-abdullahi/Nigeria-House-Price-Predictive-Model
