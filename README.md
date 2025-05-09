@@ -19,4 +19,5 @@ Where you can find links to my Data Science and Machine Learning projects.
 - [Predictive Model for Industrial Production of Electric and Gas Utilities](https://github.com/abdulmumeen-abdullahi/Industrial-Production-Predictive-Model) <br/>
 - [Early Stage Diabetes Prediction Model](https://github.com/abdulmumeen-abdullahi/Early-Stage-Diabetes-Prediction-Model) <br/>
 - [Predictive Model for Diabetes Risk Using BRFSS 2015 Dataset](https://github.com/abdulmumeen-abdullahi/Predictive-Model-for-Diabetes-Risk-Using-BRFSS-2015-Dataset) <br/>
+- [Crops Yield Prediction with Environmental Factors and Land Nutrients](https://github.com/abdulmumeen-abdullahi/Crops-Yield-Prediction-with-Environmental-Factors-and-Land-Nutrients) <br/>
 
