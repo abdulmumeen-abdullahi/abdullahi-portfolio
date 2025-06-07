@@ -1,5 +1,5 @@
 # My Portfolio
-Where you can find links to my Data Science and Machine Learning projects.
+Where you can find links to my projects.
 
 
 ## Exploratory Data Analysis (EDA) & Visualization
@@ -21,3 +21,11 @@ Where you can find links to my Data Science and Machine Learning projects.
 - [Predictive Model for Diabetes Risk Using BRFSS 2015 Dataset](https://github.com/abdulmumeen-abdullahi/Predictive-Model-for-Diabetes-Risk-Using-BRFSS-2015-Dataset) <br/>
 - [Crops Yield Prediction with Environmental Factors and Land Nutrients](https://github.com/abdulmumeen-abdullahi/Crops-Yield-Prediction-with-Environmental-Factors-and-Land-Nutrients) <br/>
 
+
+## Image Classification
+- [Multi-Class Animal Image Classification Using CNN from Scratch](https://github.com/abdulmumeen-abdullahi/Multi-Class-Animal-Image-Classification-Using-CNN-from-Scratch) <br/>
+- [Crop Disease Detection and Classification](https://github.com/abdulmumeen-abdullahi/Crop-Disease-Identification-and-Classification) <br/>
+- [Natural Disaster Damage Image Classification](https://github.com/abdulmumeen-abdullahi/Natural-Disaster-Image-Classification) <br/>
+
+## Object Detection
+- [Objects Detection in Flood Damage](https://github.com/abdulmumeen-abdullahi/Object-Detection-in-Flood-Damage) <br/>
