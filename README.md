@@ -8,7 +8,7 @@ Where you can find links to my projects.
 - [Retail Sales Performance and Profitability Analysis](https://github.com/abdulmumeen-abdullahi/Retail-Sales-Performance-and-Profitability-Analysis) <br/>
 - [Global Health Indicators Analysis](https://github.com/abdulmumeen-abdullahi/Global-Health-Indicators-Analysis) <br/>
 - [Temu Sentiment Analysis](https://github.com/abdulmumeen-abdullahi/Temu-Tweet-Sentiment-Analysis) <br/>
-
+- [FarmConsultAI - ML-based App](https://github.com/abdulmumeen-abdullahi/FarmConsultAI)
 
 
 
