@@ -92,3 +92,8 @@ Where you can find links to my projects.
 - **[Retail Sales Performance and Profitability Analysis](https://github.com/abdulmumeen-abdullahi/Retail-Sales-Performance-and-Profitability-Analysis)**
     * Analyzed retail supply chain data to identify key drivers of sales performance and profitability across various customer segments, product categories, and states.
     * **Tech Stack:** `Python`, `Matplotlib`, `Pandas`, `Seaborn`
+<br/>
+
+📫 Contact Me
+🔗 [LinkedIn](https://www.linkedin.com/in/abdulmumeen-abdullahi-olalekan)
+📧 olalekanabdulmumeen3@gmail.com
