@@ -95,5 +95,5 @@ Where you can find links to my projects.
 <br/>
 
 📫 Contact Me
-🔗 [LinkedIn](https://www.linkedin.com/in/abdulmumeen-abdullahi-olalekan)
+🔗 LinkedIn: [Abdullahi Olalekan Abdulmumeen](https://www.linkedin.com/in/abdulmumeen-abdullahi-olalekan) <br/>
 📧 olalekanabdulmumeen3@gmail.com
