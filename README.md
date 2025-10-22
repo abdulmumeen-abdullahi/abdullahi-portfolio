@@ -1,5 +1,7 @@
 # AI & ML Portfolio — My Projects Directory
 
+----------------------------------------------
+
 # Table of Contents
 - [Certificates](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#certificates)
 - [Robotics Engineering](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#robotics-engineering)
@@ -8,15 +10,21 @@
 - [Predictive Modeling and Machine Learning](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#predictive-modeling-and-machine-learning)
 - [Data Analysis & NLP](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#data-analysis--nlp)
 
+-------------------------------
+
 ## Certificates
 - Applied AI Lab: Deep Learning for Computer Vision – Issued by [WorldQuant University](https://www.credly.com/badges/c0228992-da6c-44ee-8e9a-7c6259933827/public_url)
 - Applied Data Science Lab – Issued by [WorldQuant University](https://www.credly.com/badges/7fc6663c-4ced-42e7-9672-af421a0c1544/public_url)
+
+-------------------------------
 
 ## Robotics Engineering
 
 - **[Ufactory Xarm7 – Aurora Robotics Workshop Task 4](https://github.com/abdulmumeen-abdullahi/ufractor_xarm7)**
     * Built a full ROS 2 and URDF-based model of the Ufactory Xarm7 robotic arm, defining its kinematic structure, joint limits, and 3D mesh visualization for interactive manipulation in Rviz. This project establishes the foundation for advanced motion planning, control integration, and dynamic simulation in Gazebo and MoveIt.
     * **Tech Stack:** `ROS 2 (Humble)`, `URDF`, `Rviz`, `Joint State Publisher`, `colcon`, `Python`
+
+-------------------------------
 
 ## End-to-End AI Applications & Deployed Systems 🚀
 
@@ -40,7 +48,7 @@
     * Developed an end-to-end car price prediction application, leveraging an XGBoost model for accurate estimations and deploying it as an interactive web dashboard using Dash.
     * **Tech Stack:** `Python`, `GBoost`, `Pandas`, `Scikit-learn`, `Dash`
 
-<br/>
+-------------------------------
 
 ## Computer Vision 📸
 
@@ -60,7 +68,7 @@
     * Developed a custom Convolutional Neural Network from scratch using PyTorch, creating a complete data augmentation and training pipeline to achieve 98% accuracy in a multi-class animal image classification task.
     * **Tech Stack:** `PyTorch`, `Torchvision`, `Hugging Face Datasets`, `Scikit-learn`, `Matplotlib`, `Pandas`
 
-<br/>
+-------------------------------
 
 ## Predictive Modeling and Machine Learning 📈
 
@@ -88,7 +96,7 @@
     * Analyzed global health indicators by segmenting countries using DBSCAN and built a multi-output regression model to predict critical health outcomes like life expectancy and mortality rates.
     * **Tech Stack:** `Python`, `Matplotlib`, `Pandas`, `Scikit-learn`, `Seaborn`
 
-<br/>
+-------------------------------
 
 ## Data Analysis & NLP 📊
 
@@ -107,7 +115,8 @@
 - **[Retail Sales Performance and Profitability Analysis](https://github.com/abdulmumeen-abdullahi/Retail-Sales-Performance-and-Profitability-Analysis)**
     * Analyzed retail supply chain data to identify key drivers of sales performance and profitability across various customer segments, product categories, and states.
     * **Tech Stack:** `Python`, `Matplotlib`, `Pandas`, `Seaborn`
-<br/>
+
+-------------------------------
 
 ### 📫 Contact Me
 🔗 LinkedIn: [Abdullahi Olalekan Abdulmumeen](https://www.linkedin.com/in/abdulmumeen-abdullahi-olalekan) <br/>
