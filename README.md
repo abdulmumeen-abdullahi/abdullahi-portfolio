@@ -1,4 +1,4 @@
-# AI & ML Portfolio — My Projects Directory
+# From Vision to Deployment: AI & Robotics Projects by Abdullahi
 
 ----------------------------------------------
 
