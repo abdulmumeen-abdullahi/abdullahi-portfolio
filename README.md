@@ -119,6 +119,6 @@
 
 -------------------------------
 
-### 📫 Contact Me
+### Contact Me
 🔗 LinkedIn: [Abdullahi Olalekan Abdulmumeen](https://www.linkedin.com/in/abdulmumeen-abdullahi-olalekan) <br/>
 📧 olalekanabdulmumeen3@gmail.com
