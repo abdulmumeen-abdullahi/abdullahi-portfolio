@@ -9,6 +9,7 @@
 - [Computer Vision](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#computer-vision)
 - [Predictive Modeling and Machine Learning](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#predictive-modeling-and-machine-learning)
 - [Data Analysis & NLP](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#data-analysis--nlp)
+- [Contact Me](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#contact-me)
 
 -------------------------------
 
@@ -26,7 +27,7 @@
 
 -------------------------------
 
-## End-to-End AI Applications & Deployed Systems 🚀
+## End-to-End AI Applications & Deployed Systems
 
 - **[FarmConsultAI - ML-based App](https://github.com/abdulmumeen-abdullahi/FarmConsultAI)**
     * Developed FarmConsultAI, a full-stack AI application that integrates a PyTorch computer vision model for crop disease diagnosis and a Scikit-learn model for crop yield prediction with a Gemini-powered chatbot to provide expert advice to Nigerian farmers via a Streamlit interface.
@@ -50,7 +51,7 @@
 
 -------------------------------
 
-## Computer Vision 📸
+## Computer Vision
 
 - **[Objects Detection in Flood Damage](https://github.com/abdulmumeen-abdullahi/Object-Detection-in-Flood-Damage)**
     * Developed and trained a YOLOv8 object detection model to automate the identification of people and flood-damaged property from ground images, enhancing the speed and accuracy of post-disaster rescue and assessment efforts.
@@ -70,7 +71,7 @@
 
 -------------------------------
 
-## Predictive Modeling and Machine Learning 📈
+## Predictive Modeling and Machine Learning
 
 - **[Nigeria House Price Predictive Model](https://github.com/abdulmumeen-abdullahi/Nigeria-House-Price-Predictive-Model)**
     * Trained a Random Forest model to accurately predict Nigerian house prices and deployed it as an interactive tool using `ipywidgets` for real-time estimations.
@@ -98,7 +99,7 @@
 
 -------------------------------
 
-## Data Analysis & NLP 📊
+## Data Analysis & NLP
 
 - **[Temu Sentiment Analysis](https://github.com/abdulmumeen-abdullahi/Temu-Tweet-Sentiment-Analysis)**
     * Applied NLP techniques using VADER and TextBlob to analyze Twitter data, classifying public sentiment towards the e-commerce platform Temu and visualizing key discussion themes with word clouds.
