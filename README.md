@@ -1,4 +1,4 @@
-# From Vision to Deployment: AI & Robotics Projects by Abdullahi
+# From Vision to Deployment: My AI & Robotics Projects.
 
 ----------------------------------------------
 
