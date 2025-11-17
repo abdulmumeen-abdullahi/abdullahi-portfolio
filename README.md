@@ -53,6 +53,10 @@
 
 ## Computer Vision
 
+- **[Image Ingestion & Visualization with OpenCV](https://github.com/abdulmumeen-abdullahi/Image-Ingestion-Visualization-with-OpenCV)**
+    * A practical walkthrough for ingesting, inspecting, and visualizing images using OpenCV, NumPy, and Pillow (PIL), including reading from disk, fetching from URLs, converting color spaces, and displaying pixel-level information for exploratory analysis or debugging.
+    * **Tech Stack:** `Python 3`, `OpenCV`, `NumPy`, `Pillow (PIL)`, `IPython.display`, `urllib.request`
+
 - **[Objects Detection in Flood Damage](https://github.com/abdulmumeen-abdullahi/Object-Detection-in-Flood-Damage)**
     * Developed and trained a YOLOv8 object detection model to automate the identification of people and flood-damaged property from ground images, enhancing the speed and accuracy of post-disaster rescue and assessment efforts.
     * **Tech Stack:** `PyTorch`, `YOLOv8`, `Pandas`, `Matplotlib`, `Roboflow`, `Kaggle`
