@@ -21,7 +21,7 @@
 
 ## Robotics Engineering
 
-- **[Ufactory Xarm7 Robotic Arm](https://github.com/abdulmumeen-abdullahi/ufractor_xarm7)**
+- **[Ufactory Xarm7 Robotic Arm Visualization and Simulation](https://github.com/abdulmumeen-abdullahi/ufractor_xarm7)**
     * Built a complete ROS 2 model of the Ufactory Xarm7 robotic arm using Xacro to generate the URDF, defining detailed link structures, joint limits, and visual meshes for accurate 3D visualization in RViz. Integrated MoveIt configuration for trajectory planning and interactive control, establishing a foundation for advanced motion execution, simulation, and manipulator testing.
     * **Tech Stack:** `ROS 2 (Humble)`, `Xacro`, `URDF`, `RViz`, `MoveIt`, `Joint State Publisher`, `colcon`, `Python`
 
