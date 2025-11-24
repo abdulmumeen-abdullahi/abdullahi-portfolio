@@ -22,8 +22,9 @@
 ## Robotics Engineering
 
 - **[Ufactory Xarm7 – Aurora Robotics Workshop Task 4](https://github.com/abdulmumeen-abdullahi/ufractor_xarm7)**
-    * Built a full ROS 2 and URDF-based model of the Ufactory Xarm7 robotic arm, defining its kinematic structure, joint limits, and 3D mesh visualization for interactive manipulation in Rviz. This project establishes the foundation for advanced motion planning, control integration, and dynamic simulation in Gazebo and MoveIt.
-    * **Tech Stack:** `ROS 2 (Humble)`, `URDF`, `Rviz`, `Joint State Publisher`, `colcon`, `Python`
+    * Built a complete ROS 2 model of the Ufactory Xarm7 robotic arm using Xacro to generate the URDF, defining detailed link structures, joint limits, and visual meshes for accurate 3D visualization in Rviz. Integrated MoveIt configuration for trajectory planning and interactive control, establishing a foundation for advanced motion execution, simulation, and manipulator testing.
+    * **Tech Stack:** `ROS 2 (Humble)`, `Xacro`, `URDF`, `Rviz`, `MoveIt`, `Joint State Publisher`, `colcon`, `Python`
+
 
 -------------------------------
 
