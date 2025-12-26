@@ -79,7 +79,7 @@
 ## Predictive Modeling and Machine Learning
 
 - **[Nigeria House Price Predictive Model](https://github.com/abdulmumeen-abdullahi/Nigeria-House-Price-Predictive-Model)**
-    * Trained a Random Forest model to accurately predict Nigerian house prices and deployed it as an interactive tool using `ipywidgets` for real-time estimations.
+    * Trained a Random Forest model to predict Nigerian house prices accurately and deployed it as an interactive tool using `ipywidgets` for real-time estimations.
     * **Tech Stack:** `Scikit-learn`, `Pandas`, `Matplotlib`, `ipywidgets`
 
 - **[Predictive Model for Air Quality in Oshodi, Lagos State](https://github.com/abdulmumeen-abdullahi/Predictive-Model-for-Air-Quality-in-Oshodi-Lagos-State)**
@@ -87,7 +87,7 @@
     * **Tech Stack:** `Statsmodels`, `Pandas`, `Plotly`, `Scikit-learn`
  
 - **[Fraud Detection in Electricity and Gas Consumption](https://github.com/abdulmumeen-abdullahi/Fraud-Detection-in-Electricity-and-Gas-Consumption)**
-    * Developed a high-performance fraud detection model by creating 58 behavioral features from utility data, resolving severe class imbalance with a hybrid sampling pipeline, and tuning a CatBoost classifier to achieve a final ROC AUC of 0.981.
+    * Developed a high-performance fraud detection model by creating 58 behavioral features from utility data, resolving severe class imbalance with a hybrid sampling pipeline, and tuning a CatBoost classifier to achieve a final ROC AUC of 0.981.
     * **Tech Stack:** `Scikit-learn`, `CatBoost`, `XGBoost`, `LightGBM`, `Imbalanced-learn`, `Pandas`
 
 - **[Predictive Model for Industrial Production of Electric and Gas Utilities](https://github.com/abdulmumeen-abdullahi/Industrial-Production-Predictive-Model)**
