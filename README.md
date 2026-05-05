@@ -29,6 +29,10 @@
 - **[Pipe Warehouse Digital Twin](https://github.com/abdulmumeen-abdullahi/pipe-warehouse-digital-twin)** *(Aurora Robotics – Internal R&D)*
     * Designed a high-fidelity SolidWorks digital twin of an industrial pipe warehouse as Phase 1 of a simulation-first robotics pipeline, providing a ground-truth environment for future autonomous drone navigation, vision-based pipe detection, and inventory estimation under occlusion-heavy, high-density storage conditions.
     * **Tech Stack:** `SolidWorks 2024`, `Large Assembly Modeling`, `Parametric CAD`, `Linear & Geometry Patterns`, `Git/GitHub (CAD-optimized)`
+ 
+- **[Solar PV Non-Water Cleaning Cobot](https://github.com/abdulmumeen-abdullahi/Solar-PV-Non-Water-Cleaning-Cobot)**
+    * Developed an integrated mobile manipulator system for waterless solar panel maintenance by mounting a Universal Robots UR5 arm onto a Clearpath Husky A200 mobile base. Currently implemented within a Gazebo simulation environment, the project focuses on unified robot description (URDF/Xacro) and mobile base locomotion control, establishing the simulation framework required for future manipulator trajectory planning and autonomous cleaning operations.
+    * **Tech Stack:** `ROS 2 (Humble)`, `Gazebo`, `Xacro`, `URDF`, `Husky ROS`, `Python`, `RViz`
 
 -------------------------------
 
