@@ -32,7 +32,7 @@
  
 - **[Solar PV Non-Water Cleaning Cobot](https://github.com/abdulmumeen-abdullahi/Solar-PV-Non-Water-Cleaning-Cobot)**
     * Developed an integrated mobile manipulator system for waterless solar panel maintenance by mounting a Universal Robots UR5 arm onto a Clearpath Husky A200 mobile base. Currently implemented within a Gazebo simulation environment, the project focuses on unified robot description (URDF/Xacro) and mobile base locomotion control, establishing the simulation framework required for future manipulator trajectory planning and autonomous cleaning operations.
-    * **Tech Stack:** `ROS 2 (Humble)`, `Gazebo`, `Xacro`, `URDF`, `Husky ROS`, `Python`, `RViz`
+    * **Tech Stack:** `ROS 2 (Jazzy)`, `Gazebo`, `Xacro`, `URDF`, `Husky ROS`, `Python`, `RViz`
 
 -------------------------------
 
