@@ -7,18 +7,19 @@
 - [Robotics Engineering](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#robotics-engineering)
 - [End-to-End AI Applications & Deployed Systems](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#end-to-end-ai-applications--deployed-systems)
 - [Computer Vision](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#computer-vision)
-- [Predictive Modeling and Machine Learning](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#predictive-modeling-and-machine-learning)
+- [Predictive Modelling and Machine Learning](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#predictive-modeling-and-machine-learning)
 - [Data Analysis & NLP](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#data-analysis--nlp)
 - [Contact Me](https://github.com/abdulmumeen-abdullahi/abdullahi-portfolio#contact-me)
 
 -------------------------------
 
 ## Certificates
-- Applied AI Lab: Deep Learning for Computer Vision – Issued by [WorldQuant University](https://www.credly.com/badges/c0228992-da6c-44ee-8e9a-7c6259933827/public_url)
-- Applied Data Science Lab                          – Issued by [WorldQuant University](https://www.credly.com/badges/7fc6663c-4ced-42e7-9672-af421a0c1544/public_url)
-- Core Robotics Workshop                            – Issued by [Aurora Robotics](https://drive.google.com/file/d/12lvl3oxAoUjsCEl1CIzF7ipdkneajh4M/view?usp=sharing)
-- 3MTT Full-Stack AI/ML                             – Issued by [3MTT Nigeria](https://app.3mtt.training/verify?id=FE/23/80175260)
-- 5-Day AI Agents Intensive Course with Google      – Issued by [Kaggle](https://www.kaggle.com/certification/badges/lustretechnologies/105)
+- Applied Data Science Lab                           – Issued by [WorldQuant University](https://www.credly.com/badges/7fc6663c-4ced-42e7-9672-af421a0c1544/public_url)
+- Applied AI Lab: Deep Learning for Computer Vision  – Issued by [WorldQuant University](https://www.credly.com/badges/c0228992-da6c-44ee-8e9a-7c6259933827/public_url)
+- IDEAS Emerging Technology Skills Training          – Issued by [Baze University Abuja](https://drive.google.com/file/d/16PlklxVGmRXbM8PN7boNehYluGMWU4WJ/view?usp=sharing)
+- Core Robotics Workshop                             – Issued by [Aurora Robotics](https://drive.google.com/file/d/12lvl3oxAoUjsCEl1CIzF7ipdkneajh4M/view?usp=sharing)
+- 3MTT Full-Stack AI/ML                              – Issued by [3MTT Nigeria](https://app.3mtt.training/verify?id=FE/23/80175260)
+- 5-Day AI Agents Intensive Course with Google       – Issued by [Kaggle](https://www.kaggle.com/certification/badges/lustretechnologies/105)
 -------------------------------
 
 ## Robotics Engineering
