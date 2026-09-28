@@ -1,4 +1,4 @@
-# From Vision to Deployment: My AI & Robotics Projects.
+# From Vision to Deployment: My AI & Robotics Projects
 
 ----------------------------------------------
 
@@ -16,7 +16,7 @@
 ## Certificates
 - Applied Data Science Lab                           – Issued by [WorldQuant University](https://www.credly.com/badges/7fc6663c-4ced-42e7-9672-af421a0c1544/public_url)
 - Applied AI Lab: Deep Learning for Computer Vision  – Issued by [WorldQuant University](https://www.credly.com/badges/c0228992-da6c-44ee-8e9a-7c6259933827/public_url)
-- IDEAS Emerging Technology Skills Training          – Issued by [Baze University Abuja](https://drive.google.com/file/d/16PlklxVGmRXbM8PN7boNehYluGMWU4WJ/view?usp=sharing)
+- Professional Diploma in Artificial Intelligence    – Issued by [Baze University Abuja](https://drive.google.com/file/d/16PlklxVGmRXbM8PN7boNehYluGMWU4WJ/view?usp=sharing)
 - Core Robotics Workshop                             – Issued by [Aurora Robotics](https://drive.google.com/file/d/12lvl3oxAoUjsCEl1CIzF7ipdkneajh4M/view?usp=sharing)
 - 3MTT Full-Stack AI/ML                              – Issued by [3MTT Nigeria](https://app.3mtt.training/verify?id=FE/23/80175260)
 - 5-Day AI Agents Intensive Course with Google       – Issued by [Kaggle](https://www.kaggle.com/certification/badges/lustretechnologies/105)
@@ -25,7 +25,7 @@
 ## Robotics Engineering
 
 - **[Ufactory Xarm7 Robotic Arm Visualization and Simulation](https://github.com/abdulmumeen-abdullahi/ufractor_xarm7)**
-    * Built a complete ROS 2 model of the Ufactory Xarm7 robotic arm using Xacro to generate the URDF, defining detailed link structures, joint limits, and visual meshes for accurate 3D visualization in RViz. Integrated MoveIt configuration for trajectory planning and interactive control, establishing a foundation for advanced motion execution, simulation, and manipulator testing.
+    * Built a complete ROS 2 model of the Ufactory Xarm7 robotic arm using Xacro to generate the URDF, defining detailed link structures, joint limits, and visual meshes for accurate 3D visualisation in RViz. Integrated MoveIt configuration for trajectory planning and interactive control, establishing a foundation for advanced motion execution, simulation, and manipulator testing.
     * **Tech Stack:** `ROS 2 (Humble)`, `Xacro`, `URDF`, `RViz`, `MoveIt`, `Joint State Publisher`, `colcon`, `Python`
 - **[Pipe Warehouse Digital Twin](https://github.com/abdulmumeen-abdullahi/pipe-warehouse-digital-twin)** *(Aurora Robotics – Internal R&D)*
     * Designed a high-fidelity SolidWorks digital twin of an industrial pipe warehouse as Phase 1 of a simulation-first robotics pipeline, providing a ground-truth environment for future autonomous drone navigation, vision-based pipe detection, and inventory estimation under occlusion-heavy, high-density storage conditions.
