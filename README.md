@@ -20,6 +20,9 @@
 - Core Robotics Workshop                             – Issued by [Aurora Robotics](https://drive.google.com/file/d/12lvl3oxAoUjsCEl1CIzF7ipdkneajh4M/view?usp=sharing)
 - 3MTT Full-Stack AI/ML                              – Issued by [3MTT Nigeria](https://app.3mtt.training/verify?id=FE/23/80175260)
 - 5-Day AI Agents Intensive Course with Google       – Issued by [Kaggle](https://www.kaggle.com/certification/badges/lustretechnologies/105)
+- Research-to-Impact (R2I) Fellowship                – Issued by [Wale Lab, Wale University](https://drive.google.com/file/d/1XLgJH9Irg4IGTbaHq365oHEeMvZ2CyWm/view?usp=sharing)
+- R2I Research Manuscript Completion                 – Issued by [Wale Lab, Wale University](https://drive.google.com/file/d/1icNmoV734_joR3dZrbSTp12K-4ZzW9n-/view?usp=sharing)
+- Research Writing Course                            – Issued by [Wale Lab, Wale University](https://drive.google.com/file/d/12D8RRH8vAH0Lhvnz6qhj7vkicbfDHZxI/view?usp=sharing)
 -------------------------------
 
 ## Robotics Engineering
